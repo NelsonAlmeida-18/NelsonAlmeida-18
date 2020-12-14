@@ -1,5 +1,16 @@
-### Hi there 👋
+# Nelson-Almeida 
+Hello! I'm Nelson and I'm a student at Universidade do Minho, where I'm getting a graduation in Computer Science. 
+## My college projects and solved exercises 🎓 
+### 1st year - 1st semester 
+- **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/NelsonAlmeida-18/UniversidadePF) 
+- **DMCD** (DataMining para Ciência de Dados) - R - [Project] 
 
+## My programming skills 💻 
+- Python 
+- Haskell 
+- R (still learning) 
+
+I hope I can add as many items to this list as possible!
 <!--
 **NelsonAlmeida-18/NelsonAlmeida-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
