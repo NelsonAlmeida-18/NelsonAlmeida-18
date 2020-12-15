@@ -22,6 +22,3 @@ I hope I can add as many items to this list as possible!
 
 [![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18)](https://github.com/anuraghazra/github-readme-stats)
 
-### Spotify Playing 🎧
-
-<img src="https://spotify-now-playing-a04f3692f.vercel.app/api/spotify-playing" alt="FalconFlare Spotify Playing" width="350" />
