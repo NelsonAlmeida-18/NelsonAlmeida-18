@@ -7,7 +7,13 @@ From there my interest in software development only grew.
 ## My college projects and solved exercises 🎓 
 ### 1st year - 1st semester 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/NelsonAlmeida-18/UniversidadePF) 
-- **DMCD** (DataMining para Ciência de Dados) - R - [Project] 
+- **DMCD** (DataMining para Ciência de Dados) - R - [Project](https://github.com/NelsonAlmeida-18/DMCD)
+
+### 1st year - 2nd semester 
+- **Programação Imperativa** (Imperative Programming) - C - [Exercises]
+- **Laboratórios de Algoritmia I** - C/Assembly - [Projetcs]
+- **Sistemas de Computação** (Computer Systems) - C/Assembly - [Projects] 
+
 
 ## My programming skills 💻 
 - Python 
