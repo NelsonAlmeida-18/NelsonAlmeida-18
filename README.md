@@ -1,7 +1,5 @@
 # Nelson-Almeida 
 Hello! My name is Nelson and I'm a freshman at Universidade do Minho, where I'm taking a degree in Computer Science.
-My first contact with developing a computer program was in my first year of high school where i developed a game called flappy-pi for math class. The game was a replica of the popular game flappy bird but the sprite was a Pi since it was a math themed app. From there i started learning Python by myself and sketched out a website using flask, used webscrapping libraries, I've tried to use open-cv to make a facial recognition program but failed in the machine-learning part. I've used Tkinter to make GUI's for loggin's and mp3 players. And my favourite project because it was the one I had the most fun doing was a "autonomous" car for the physics class in my last year of high school. It used an Arduino and some ultrasonic sensors. Me and my group coded and modeled some parts using Fusion360 to make everything tidy in the car.
-From there my interest in software development only grew.
 
 
 ## My college projects and solved exercises 🎓 
