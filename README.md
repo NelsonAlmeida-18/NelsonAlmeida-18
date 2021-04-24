@@ -18,6 +18,7 @@ Hello! My name is Nelson and I'm a freshman at Universidade do Minho, where I'm 
 - Haskell 
 - R (still learning) 
 - C (still learning)
+- JavaScript(Just started learning)
 
 I hope I can add as many items to this list as possible!
 
