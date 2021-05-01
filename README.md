@@ -26,5 +26,5 @@ I hope I can add as many items to this list as possible!
 
 
 
-[![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=onedark)]
+[![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=tokionight)]
 
