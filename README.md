@@ -12,5 +12,7 @@ Hello! My name is Nelson and I'm a freshman at Universidade do Minho, where I'm 
 - **Laboratórios de Algoritmia I** - C/Assembly - [Projetcs]
 - **Sistemas de Computação** (Computer Systems) - C/Assembly - [Projects] 
 
-
+###LiveStreams
+- **Snake Game c/Pygame(Versão Tuga)** - Python - [Project](https://github.com/NelsonAlmeida-18/streams/tree/main/Oant)
+- **Jogo do Galo Feito em Consola ** - Python - [Project](https://github.com/NelsonAlmeida-18/streams/blob/main/felix.py)
 [![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)]
