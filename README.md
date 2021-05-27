@@ -9,7 +9,7 @@ Hello! My name is Nelson and I'm a freshman at Universidade do Minho, where I'm 
 
 ### 1st year - 2nd semester 
 - **Programação Imperativa** (Imperative Programming) - C - [Exercises]
-- **Laboratórios de Algoritmia I** - C/Assembly - [Projetcs]
+- **Laboratórios de Algoritmia I** - C/Assembly - [Projetcs](https://github.com/NelsonAlmeida-18/CC-PL-3-G-08)
 - **Sistemas de Computação** (Computer Systems) - C/Assembly - [Projects] 
 
 ###LiveStreams
