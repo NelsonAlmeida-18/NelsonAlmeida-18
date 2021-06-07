@@ -5,8 +5,6 @@ Hello! My name is Nelson and I'm a freshman at Universidade do Minho, where I'm 
 Discord: Nelson Almeida#2219
 Instagram: nelsonalmeidasb_
 
-[![Nelson Almeida's github stats](https://instagram.com/nelsonalmeidasb_)]
-
 ## My college projects and solved exercises 🎓 
 ### 1st year - 1st semester 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/NelsonAlmeida-18/UniversidadePF) 
