@@ -1,6 +1,11 @@
 # Nelson-Almeida 
 Hello! My name is Nelson and I'm a freshman at Universidade do Minho, where I'm taking a degree in Computer Science.
 
+## Socials
+Discord: Nelson Almeida#2219
+Instagram: nelsonalmeidasb_
+
+[![Nelson Almeida's github stats](https://instagram.com/nelsonalmeidasb_)]
 
 ## My college projects and solved exercises 🎓 
 ### 1st year - 1st semester 
