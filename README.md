@@ -21,4 +21,4 @@
 - **MadLibs** - Python - [Project](https://github.com/NelsonAlmeida-18/streams/tree/main/madLibs)
 
 
-[![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)]
+![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
