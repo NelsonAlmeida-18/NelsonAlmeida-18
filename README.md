@@ -16,5 +16,10 @@
 - **Sistemas Operativos** - C - [Project](https://github.com/NelsonAlmeida-18/SO-Pr-tico)
 - **Cálculo de Programas** - Haskell - [Project](https://github.com/NelsonAlmeida-18/CP-Trabalho-Pr-tico)
 
+### 3rd year - 1st semester 
+- **Bases de Dados** (DB) - SQL - [Project](https://github.com/NelsonAlmeida-18/BD-CaumPetClinic)
+- **Processamento de Linguagens e Compiladores** (NPL'ish) - Python - [Project](https://github.com/NelsonAlmeida-18/PLC-TP)
+- **Lógica Computacional** - Python - [Tests](https://github.com/NelsonAlmeida-18/LC-TP)
+
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonAlmeida-18&layout=compact&theme=dark)
