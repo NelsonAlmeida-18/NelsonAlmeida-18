@@ -18,7 +18,7 @@
 
 ### 3rd year - 1st semester 
 - **Bases de Dados** (DB) - SQL - [Project](https://github.com/NelsonAlmeida-18/BD-CaumPetClinic)
-- **Processamento de Linguagens e Compiladores** (NPL'ish) - Python - [Project](https://github.com/NelsonAlmeida-18/PLC-TP)
+- **Processamento de Linguagens e Compiladores** (NLP'ish) - Python - [Project](https://github.com/NelsonAlmeida-18/PLC-TP)
 - **Lógica Computacional** - Python - [Tests](https://github.com/NelsonAlmeida-18/LC-TP)
 
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
