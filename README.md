@@ -22,4 +22,3 @@
 - **Lógica Computacional** - Python - [Tests](https://github.com/NelsonAlmeida-18/LC-TP)
 
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonAlmeida-18&layout=compact&theme=dark)
