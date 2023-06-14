@@ -22,8 +22,9 @@
 - **Lógica Computacional** - Python - [Projects](https://github.com/NelsonAlmeida-18/LC-TP)
 
 ### 3rd year - 2nd semester 
-- **Computação Gráfica** (Computer Graphics) - C++ - [Exercises](https://github.com/NelsonAlmeida-18/CG)
-- **Programação Concorrente** (Concurrent Programming) - Java - [Exercises](https://github.com/NelsonAlmeida-18/PC)
+- **Computação Gráfica** (Computer Graphics) - C++ - [Exercises](https://github.com/NelsonAlmeida-18/CG) - [Project](https://github.com/NelsonAlmeida-18/CG-TP)
+- **Programação Concorrente** (Concurrent Programming) - Java - [Exercises](https://github.com/NelsonAlmeida-18/PC) - [Project](https://github.com/NelsonAlmeida-18/PC-TP)
+- **Interação e Concorrência**(Quantum Computing) - Qiskit - [Project](https://github.com/NelsonAlmeida-18/IC-TP)
 
 
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
