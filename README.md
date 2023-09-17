@@ -1,6 +1,9 @@
 # Nelson-Almeida 
 
 ## My college projects and solved exercises 🎓 
+
+## Bachelors in Computer Science ##
+
 ### 1st year - 1st semester 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/NelsonAlmeida-18/UniversidadePF) 
 - **DMCD** (DataMining para Ciência de Dados) - R - [Project](https://github.com/NelsonAlmeida-18/DMCD)
@@ -26,5 +29,13 @@
 - **Programação Concorrente** (Concurrent Programming) - Java - [Exercises](https://github.com/NelsonAlmeida-18/PC) - [Project](https://github.com/NelsonAlmeida-18/PC-TP)
 - **Interação e Concorrência**(Quantum Computing) - Qiskit - [Project](https://github.com/NelsonAlmeida-18/IC-TP)
 
+## Masters in Software Engineering ##
+
+### 1st year - 1st semester ###
+- **Aplicações e Serviços de Computação em Nuvem** 
+- **Computação Paralela**
+- **Engenharia de Serviços em Rede**
+- **Dados e Aprendizagem Automática**
+- **Requisitos e Arquiteturas de Software**
 
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
