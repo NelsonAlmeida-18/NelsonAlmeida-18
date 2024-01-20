@@ -32,10 +32,11 @@
 ## Masters in Software Engineering ##
 
 ### 1st year - 1st semester ###
-- **Aplicações e Serviços de Computação em Nuvem** 
-- **Computação Paralela**
-- **Engenharia de Serviços em Rede**
-- **Dados e Aprendizagem Automática**
-- **Requisitos e Arquiteturas de Software**
+- **Aplicações e Serviços de Computação em Nuvem** (Cloud Computing) - [Project](https://github.com/NelsonAlmeida-18/ASCN-PL)
+- **Computação Paralela** (Parallel Computing) - [Project](https://github.com/NelsonAlmeida-18/CPAR-PL)
+- **Engenharia de Serviços em Rede** (Networking) - [Project](https://github.com/NelsonAlmeida-18/ESR-TP)
+- **Dados e Aprendizagem Automática** (Artificial Inteligence) - [Project](https://github.com/NelsonAlmeida-18/DAA-PL)
+- **Requisitos e Arquiteturas de Software** (Software Architetures) - [Project](https://github.com/RAS-7B)
+- **MFES**(Formal Methods for Software Engineering) - [Projects](https://github.com/NelsonAlmeida-18/MFES-TP)
 
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
