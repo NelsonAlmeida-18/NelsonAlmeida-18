@@ -41,11 +41,11 @@
 
 ### 1st year - 2nd semester ###
 - **Análise Inteligente em Sistemas Big Data** (Big Data) - [Project](https://github.com/NelsonAlmeida-18/AISBD-TP)
-- **Bases de Dados NoSQL** (NoSql Databases) - [Exercises](https://github.com/NelsonAlmeida-18/BDNOSQL) - [Project]()
+- **Bases de Dados NoSQL** (NoSql Databases) - [Exercises](https://github.com/NelsonAlmeida-18/BDNOSQL) - [Project](https://github.com/NelsonAlmeida-18/BDNOSQL-TP)
 - **Mineração de Dados** (Data Mining) - [Project](https://github.com/NelsonAlmeida-18/MD-TP)
-- **Visão por Computador e Processamento de Imagem** (Computer Vision and Image Processing) - [Project](https://github.com/NelsonAlmeida-18/VCPI-TP)
+- **Visão por Computador e Processamento de Imagem** (Computer Vision and Image Processing) - [Group Project](https://github.com/NelsonAlmeida-18/VCPI-TP) [Individual Project]()
 - **Visualização e Iluminação** (Phisically Based Rendering) - [Project](https://github.com/NelsonAlmeida-18/VI-TP)
-- **Visualização em Tempo Real**(Real Time Visualization) - [Projects]()
+- **Visualização em Tempo Real**(Real Time Visualization) - [Group Project]() [Individual Project]()
 
 
 ![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)
